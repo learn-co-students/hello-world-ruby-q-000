@@ -1,4 +1,6 @@
-running-a-ruby-file-readme
-==========================
+# Running a Ruby File
 
-readme for learning to run a ruby file
+* You're going to make a file that will print "hello world" to the console. 
+* The first step is to create a text file called `first_file.rb` (the `.rb` file extention tells the computer that the code is in Ruby).
+* In the file, use `puts` to print the words "hello world". If you don't remember the sytax for `puts` remember that it simply writes onto the screen whatever comes after it. For instance, if you wanted to print the word "hi", you would type `puts "hi"`.
+* Execute this file by typing `ruby first_file.rb` into your terminal and hitting `enter`. The `ruby` part of that command tells your computer to use the Ruby interpreter when reading and excecuting the code in your file. The second part of the command, `first_file.rb`, in this case, is the path to the file. However, since you're in the same folder as your file `first_file.rb`, you can just give your computer the file name instead of the path to get to it.
