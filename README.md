@@ -1,3 +1,13 @@
+---
+tags: readme
+language: ruby
+resources: 0
+track: web development
+topic: ruby
+unit: hello world
+lesson: running a ruby file
+---
+
 # Running a Ruby File
 
 * You're going to make a file that will print "hello world" to the console. 
