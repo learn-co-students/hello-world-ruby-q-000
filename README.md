@@ -48,6 +48,6 @@ Confirm everything is working by running the `learn` command.
 
 Add, Commit and Push your code to GitHub and open a pull request and this lab is done, but your adventure in Ruby has only just begun!
 
-![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
+![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/medium.jpg)
 
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world)_
