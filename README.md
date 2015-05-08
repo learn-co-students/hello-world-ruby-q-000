@@ -1,8 +1,18 @@
 # Running a Ruby File
 
+## Video
+
 ## Overview
 
 You're going to make a file that will print "Hello World!" to your terminal. 
+
+## Objectives
+
+1. Create a new text file.
+2. Write syntactically valid code to produce "Hello World!"
+3. Running a ruby file.
+4. Running the learn gem.
+5. Submitting the Lab.
 
 ## Instructions
 
