@@ -8,3 +8,7 @@ tags:
 languages:
   - ruby
 resources: 0
+type:
+  - video
+  - lab
+  - lecture
