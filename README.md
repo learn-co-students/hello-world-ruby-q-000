@@ -12,6 +12,15 @@ You're going to make a file that will print ["Hello World!"](http://en.wikipedia
 4. Running the learn gem.
 5. Submitting the Lab.
 
+## Video
+
+<video controls width="100%">
+  <source src="http://learn-co-videos.s3.amazonaws.com/ruby/hello-world-ruby.mp4" type="video/mp4" >
+    The video accompanying this lab is best enjoyed on Learn.co
+</video>
+
+[MP4](http://learn-co-videos.s3.amazonaws.com/ruby/hello-world-ruby.mp4)
+
 ## Instructions
 
 ### Step 1
