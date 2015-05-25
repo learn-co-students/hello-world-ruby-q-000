@@ -31,7 +31,7 @@ The first step is to create a text file called `hello_world.rb`. The `.rb` file 
 
 In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. Did you notice the method for printing in Ruby in another lab? It is short for "output string". It's the method `puts`. And remember how to make a string in Ruby? Just surround your text with `""`. 
 
-File: `hello_ruby.rb`
+File: `hello_world.rb`
 ```ruby
 puts "Hello World!"
 ```
