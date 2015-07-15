@@ -6,11 +6,11 @@ You're going to make a file that will print ["Hello World!"](http://en.wikipedia
 
 ## Objectives
 
-1. Create a new text file.
+1. Create a new Ruby file.
 2. Write syntactically valid code to produce "Hello World!"
-3. Running a ruby file.
-4. Running the learn gem.
-5. Submitting the Lab.
+3. Run a Ruby file.
+4. Run the Learn gem.
+5. Submit the lab.
 
 ## Video
 
