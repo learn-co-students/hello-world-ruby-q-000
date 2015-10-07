@@ -42,6 +42,8 @@ Hello World!
 
 Confirm everything is working by running the `learn` command.
 
+Note: Case matters, and your test will not pass unless you print "Hello World!" exactly
+
 ### Submitting Your Lab
 
 Submit your solution with `learn submit` and this lab is done, but your adventure in Ruby has only just begun!
