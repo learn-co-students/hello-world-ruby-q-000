@@ -12,7 +12,7 @@ You're going to make a file that will print ["Hello World!"](http://en.wikipedia
 
 ## Instructions
 
-Open this lab to get started with `learn open`.
+Get started by opening this lab with 'learn open' or by clicking the Open button in the toolbar.
 
 ### Creating a File
 
