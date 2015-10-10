@@ -16,7 +16,7 @@ Get started by opening this lab with 'learn open' or by clicking the Open button
 
 ### Creating a File
 
-The first step is to create a text file called `hello_world.rb`. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal once you've navigated into this lab's directory with `cd`. If you have Sublime Text and the [Sublime Text symlink](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) `subl` set up, you can also type `subl .` within this lab's directory to open the entire directory in Sublime (very useful).
+The first step is to create a text file called `hello_world.rb`. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal (note, however, that you won't see any output in Terminal with `touch`), once you've navigated into this lab's directory with `cd`. If you have Sublime Text and the [Sublime Text symlink](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) `subl` set up, you can also type `subl .` within this lab's directory to open the entire directory in Sublime (very useful).
 
 ### Writing Code
 
