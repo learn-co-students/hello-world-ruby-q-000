@@ -31,6 +31,8 @@ puts "Hello World!"
 
 Execute this file by typing `ruby hello_world.rb` into your terminal and pressing `enter`. The `ruby` part of that command tells your computer to use the Ruby interpreter when reading and executing the code in your file. The second part of the command, `hello_world.rb` is the path to the file you want to run.
 
+Note: be sure to save your file before trying to print, otherwise it will not work.
+
 You should see:
 
 ```bash
