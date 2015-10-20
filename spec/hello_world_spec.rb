@@ -1,3 +1,5 @@
+puts "Hello World"
+
 describe "Hello World" do 
 
   it 'puts "Hello World!"' do
