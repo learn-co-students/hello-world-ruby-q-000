@@ -1,1 +1,1 @@
-puts "Hello World!"
+prints "Welcome to Tic Tac Toe!"
