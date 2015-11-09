@@ -27,7 +27,7 @@ File: `hello_world.rb`
 puts "Hello World!"
 ```
 
-Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it wil be tested against an empty document! Always remember to save it everytime you make changes by selecting Save from the File menu.
+Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it will be tested against an empty document! Always remember to save it every time you make changes by selecting Save from the File menu.
 
 ### Executing Your File
 
