@@ -1,3 +1,4 @@
+puts "Hello World!"
 describe "Hello World" do
 
   it 'puts "Hello World!"' do
@@ -8,4 +9,3 @@ describe "Hello World" do
   end
 
 end
-puts "Hello_World!"
