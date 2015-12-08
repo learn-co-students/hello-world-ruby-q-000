@@ -12,11 +12,11 @@ You're going to make a file that will print ["Hello World!"](http://en.wikipedia
 
 ## Instructions
 
-Get started by opening this lab with 'learn open' or by clicking the Open button in the toolbar.
+Get started by opening this lab with `learn open` or by clicking the Open button in the toolbar.
 
 ### Creating a File
 
-The first step is to create a text file called `hello_world.rb`. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal (note, however, that you won't see any output in Terminal with `touch`), once you've navigated into this lab's directory with `cd`. If you have Sublime Text and the [Sublime Text symlink](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) `subl` set up, you can also type `subl .` within this lab's directory to open the entire directory in Sublime (very useful).
+The first step is to create a text file called `hello_world.rb`. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal, once you've navigated into this lab's directory with `cd` (note, however, that you won't see any output in Terminal with `touch`). If you have Sublime Text and the [Sublime Text symlink](http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/) `subl` set up, you can also type `subl .` within this lab's directory to open the entire directory in Sublime (very useful).
 
 ### Writing Code
 
@@ -27,9 +27,13 @@ File: `hello_world.rb`
 puts "Hello World!"
 ```
 
+Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it will be tested against an empty document! Always remember to save it every time you make changes by selecting Save from the File menu.
+
 ### Executing Your File
 
 Execute this file by typing `ruby hello_world.rb` into your terminal and pressing `enter`. The `ruby` part of that command tells your computer to use the Ruby interpreter when reading and executing the code in your file. The second part of the command, `hello_world.rb` is the path to the file you want to run.
+
+Note: be sure to save your file before trying to print, otherwise it will not work.
 
 You should see:
 
