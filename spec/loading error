@@ -1,0 +1,15 @@
+If you're program doesn't work at first and you think you're 
+doing everything right here are a few things you can try:
+
+1) Close and reopen Nitrous
+2) Type ruby your-program.rb in the console - see what it responds with
+3) Type "learn" in the console - see what errors you get
+
+More specifically, if you get an error saying your file cannot load..
+- close and reopen Nitrous
+- click on the 3 dots at the top header next to '(your username)-q-000' 
+  and click on "Set Home Folder as Root"
+- Next, run your program again making sure 'hello-world.rb' program is under the 'hello-world-spec.rb'
+  folder (as opposed to being under the 'specs' folder)
+  
+That should fix the problem!
