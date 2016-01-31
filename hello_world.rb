@@ -1,1 +1,1 @@
-return "Hello World!";
+puts "Hello World!";
