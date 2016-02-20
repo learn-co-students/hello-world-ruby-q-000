@@ -20,10 +20,10 @@ The first step is to create a text file called `hello_world.rb`. The `.rb` file 
 
 ### Writing Code
 
-In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. To print in Ruby, you need to use the method `puts` which is short for "out**put s**tring." And because Hello World! is a string, you need to surround your text with `""`.
+In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. To print in Ruby, you need to use the method ` which is short for "out**put s**tring." And because Hello World! is a string, you need to surround your text with `""`.
 
-File: `hello_world.rb`
-```ruby
+File: `hello_world.rb
+`ruby
 puts "Hello World!"
 ```
 
