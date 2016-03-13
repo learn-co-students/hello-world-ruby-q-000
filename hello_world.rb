@@ -1,3 +1,1 @@
-''' ruby
 puts "Hello World!"
-
