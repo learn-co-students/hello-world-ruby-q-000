@@ -1,4 +1,1 @@
-```bash
-$ ruby hello_world.rb
-Hello World!
-```
+puts "Hello World!"
