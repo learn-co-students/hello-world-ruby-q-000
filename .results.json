@@ -1,0 +1,1 @@
+{"version":"3.4.4","examples":[{"description":"puts \"Hello World!\"","full_description":"Hello World puts \"Hello World!\"","status":"passed","file_path":"./spec/hello_world_spec.rb","line_number":3,"run_time":0.008048,"pending_message":null}],"summary":{"duration":0.008444,"example_count":1,"failure_count":0,"pending_count":0},"summary_line":"1 example, 0 failures"}
