@@ -1,6 +1,6 @@
 tags:
   - basics
-  - puts
+  - puts " Welcome to Tic Tac Toe!"
   - hello world
   - lecture
   - lab
