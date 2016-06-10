@@ -1,6 +1,6 @@
-## Overview
+#Hello World
 
-You're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
+You're going to make a file that will print "Hello World!"(http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
 
 ## Objectives
 
@@ -12,7 +12,7 @@ You're going to make a file that will print ["Hello World!"](http://en.wikipedia
 
 ## Instructions
 
-Get started by opening this lab with `learn open` or by clicking the Open button in the toolbar.
+Get started by opening this lab with 'learn open' or by clicking the Open button in the toolbar.
 
 ### Creating a File
 
@@ -28,6 +28,7 @@ puts "Hello World!"
 ```
 
 Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it will be tested against an empty document! Always remember to save it every time you make changes by selecting Save from the File menu.
+
 
 ### Executing Your File
 
@@ -52,8 +53,9 @@ Note: Case matters, and your test will not pass unless you print "Hello World!" 
 
 Submit your solution with `learn submit` and this lab is done, but your adventure in Ruby has only just begun!
 
+
 ### Hello World History
 
-![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
+![Hello World History] Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
