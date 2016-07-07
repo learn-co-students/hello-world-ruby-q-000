@@ -1,4 +1,5 @@
-## Overview
+
+Let's say you ran a program, and saw the following output (pay attention to the last line## Overview
 
 You're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
 
