@@ -1,0 +1,417 @@
+[33mcommit 46b1c20d8e062e93cdb496c0c136a2134b8c7e6d[m
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Fri Jul 8 13:33:53 2016 -0400
+
+    updated instructions
+
+[33mcommit faa2171e5d3410e2741332273f5dcf26d983a5e6[m
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Fri Jul 8 13:31:31 2016 -0400
+
+    Update README.md
+
+[33mcommit 6e403ed58cbc56fde9ce86682939030b64cfe6ca[m
+Merge: 1410f71 f75c30e
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri Jun 17 11:42:28 2016 -0700
+
+    Merge pull request #63 from aviflombaum/aviflombaum-1466188943
+
+[33mcommit f75c30e6db2ea582204680cb303ddd009cc2053f[m
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri Jun 17 11:42:23 2016 -0700
+
+    Remove github shoutout.
+
+[33mcommit 1410f71ff580c1119397846d45c1c1b1a6d86dd9[m
+Merge: 81865e9 d9991ec
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri Jun 17 11:17:23 2016 -0700
+
+    Merge pull request #62 from aviflombaum/aviflombaum-1466187419
+    
+    Updated README.md
+
+[33mcommit d9991ecc1de9f65328923e0025f569fdcad981e0[m
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri Jun 17 11:16:59 2016 -0700
+
+    Updated README.md
+
+[33mcommit 81865e9ef51a103c4ee31a5697a614a4bc4b3b77[m
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri Jun 17 09:25:42 2016 -0700
+
+    Made instructions clearer for Learn IDE
+
+[33mcommit d51a6c79c959f9e26c7b73cd95bde472360adc9e[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Fri Jan 29 10:12:33 2016 -0500
+
+    optimize learn link [processing skip]
+
+[33mcommit e151c5911ab66cdcb9eff9d1448409379159dd74[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Wed Dec 2 13:02:06 2015 -0500
+
+    add learn link [processing skip]
+
+[33mcommit 940c6dc6c0edc35e936b14a52bae6c00f43b4aef[m
+Merge: 5703ebd 361348a
+Author: Deniz Unat <deniznida@users.noreply.github.com>
+Date:   Mon Nov 9 17:44:46 2015 -0500
+
+    Merge pull request #48 from sirmatt/sirmatt-1446933679
+    
+    Fixed two typos
+
+[33mcommit 361348ab6b5e91c6595336b5e5197685f0257cb4[m
+Author: Matt <sirmatt@users.noreply.github.com>
+Date:   Sat Nov 7 14:01:19 2015 -0800
+
+    Fixed two typos
+
+[33mcommit 5703ebd496238093e4d323683a84f76b2706e57d[m
+Merge: 5afc655 c787a66
+Author: Daniel Fenjves <dfenjves@users.noreply.github.com>
+Date:   Sun Nov 1 18:44:17 2015 -0500
+
+    Merge pull request #42 from mjcalavano1/mjcalavano1-1445018723
+    
+    Updated README.md
+
+[33mcommit 5afc655d064dd73dda996ae8b56ed2d242526132[m
+Merge: ec19762 040effb
+Author: Daniel Fenjves <dfenjves@users.noreply.github.com>
+Date:   Sun Nov 1 18:43:56 2015 -0500
+
+    Merge pull request #43 from ktravers/ktravers-1445657634
+    
+    replace quotes with backticks around code words
+
+[33mcommit ec19762da90250609977006c8b9f31bc908e28e6[m
+Merge: 620ea5e 204f511
+Author: Sam Marcus <sammarcus@users.noreply.github.com>
+Date:   Sat Oct 24 00:56:21 2015 -0400
+
+    Merge pull request #44 from sammarcus/sammarcus-1445662580
+
+[33mcommit 204f51125bd41fb0f13b38e7f4718570fc4395ee[m
+Author: Sam Marcus <sammarcus@users.noreply.github.com>
+Date:   Sat Oct 24 00:56:20 2015 -0400
+
+    added save instructions
+
+[33mcommit 040effbc09bb74f49051dc7c4d8c0e95a3d3d454[m
+Author: Kate Travers <kate@flatironschool.com>
+Date:   Fri Oct 23 23:33:55 2015 -0400
+
+    replace quotes with backticks around code words
+
+[33mcommit c787a66598052c5ced15bd9099a18da92e24ef13[m
+Author: mjcalavano1 <mjcalavano1@gmail.com>
+Date:   Fri Oct 16 14:05:23 2015 -0400
+
+    Updated README.md
+
+[33mcommit 620ea5ec5a7f7a2175a74fdfbdf1404b778fd17b[m
+Merge: 46a597d ff95335
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Sat Oct 10 14:56:21 2015 -0400
+
+    Merge pull request #40 from learn-co-curriculum/readme-fix
+    
+    Update README.md
+
+[33mcommit ff9533563be593081ea347f18d2b07ca97199a07[m
+Author: Sam Marcus <sammarcus@users.noreply.github.com>
+Date:   Sat Oct 10 00:22:15 2015 -0400
+
+    Update README.md
+
+[33mcommit 46a597dde2aa508b70bd834dc0413dae432fbab7[m
+Merge: 65ebd64 1b31e7f
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Thu Oct 8 18:08:46 2015 -0400
+
+    Merge pull request #37 from mjl-fs-test-107/mjl-fs-test-107-1444239653
+    
+    add note about "Hello World!" case
+
+[33mcommit 65ebd64afc6d1cdea639e245e31aaae696e8075a[m
+Merge: 2e092b5 35f925a
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Thu Oct 8 18:08:12 2015 -0400
+
+    Merge pull request #38 from faiyamTestFS32/faiyamTestFS32-1444245302
+    
+    Clarified the section on getting started
+
+[33mcommit 35f925afcb039d2b9e54767594e223640f0ec87f[m
+Author: faiyamTestFS32 <faiyam+test32@flatironschool.com>
+Date:   Wed Oct 7 15:15:03 2015 -0400
+
+    Clarified the section on getting started
+
+[33mcommit 1b31e7fd3a35d22bafd042409639fb2ea83b26ce[m
+Author: mjl-fs-test-107 <mike.linshi+test107@flatironschool.com>
+Date:   Wed Oct 7 13:40:54 2015 -0400
+
+    add note about "Hello World!" case
+
+[33mcommit 2e092b5d762a6b8eb4a92ba298ba1d1481a4bb8f[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Tue Oct 6 10:45:03 2015 -0400
+
+    removed video and cleaned up workflow instructions
+
+[33mcommit e1f7daff947da2390bce7936da23d02d6f693b1c[m
+Merge: 6194a97 a545756
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Wed Sep 23 11:54:36 2015 -0400
+
+    Merge pull request #35 from learn-co-curriculum/wip-ann
+    
+    Reorganized content
+
+[33mcommit a545756b39892deb68728fe47ec950385306d02b[m
+Author: AnnJohn <anndjohn@gmail.com>
+Date:   Wed Sep 23 11:01:46 2015 -0400
+
+    Reorganized content
+
+[33mcommit 6194a97968732c5ac674bdb62e5e6eddf453ede5[m
+Author: Daniel Fenjves <dfenjves@users.noreply.github.com>
+Date:   Mon Sep 21 10:06:49 2015 -0400
+
+    Update README.md
+
+[33mcommit 9a80ee2be9c7a91a514b8e81983a0cea972de83c[m
+Author: Spencer Rogers <spencer1248@gmail.com>
+Date:   Tue Sep 1 16:54:04 2015 -0400
+
+    Add contributing instructions
+
+[33mcommit 2ee32ad3ad5f61385a644fe60634e6b16077ca8c[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Thu Jul 30 14:25:35 2015 -0400
+
+    small readme update
+
+[33mcommit f6a567c8018f2a56c4dfb5169ade208afef0f373[m
+Merge: 242d1a6 fa4c0df
+Author: Deniz Unat <deniznida@users.noreply.github.com>
+Date:   Thu Jul 30 13:43:38 2015 -0400
+
+    Merge pull request #4 from learn-co-curriculum/wip-markedit
+    
+    README: edit objectives
+
+[33mcommit 242d1a67595d7211ec3f69fd475fa846eebda60d[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Thu Jul 30 13:37:49 2015 -0400
+
+    remove front matter
+
+[33mcommit 29babfea8e0dcb35be6f34adec017a4fe73bfae7[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Thu Jul 30 11:53:22 2015 -0400
+
+    remove front matter
+
+[33mcommit 02aa0406cb37cfe733e8dae2ce2d241b96682389[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Thu Jul 30 09:50:02 2015 -0400
+
+    remove front matter
+
+[33mcommit 4912090b78e81819979c414a41ea0e0a524fc14d[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Wed Jul 29 12:43:40 2015 -0400
+
+    remove front matter
+
+[33mcommit 83158cdbed7aeb885140ef2dd2eb56313af6d163[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Wed Jul 29 10:57:16 2015 -0400
+
+    remove front matter
+
+[33mcommit 00836661f2f0c18362c64c777e9a177e5473fa62[m
+Merge: 9c227a6 0ca60d3
+Author: Kaitlin Vignali <kaitlin@flatironschool.com>
+Date:   Fri Jul 24 10:54:48 2015 -0400
+
+    Merge pull request #7 from kvignali/kvignali-1437749685
+
+[33mcommit 0ca60d3c6f94a39f70c3ee9cd735574e4570380a[m
+Author: Kaitlin Vignali <kaitlin@flatironschool.com>
+Date:   Fri Jul 24 10:54:46 2015 -0400
+
+    Updated README.md
+
+[33mcommit 9c227a653c8ba8062f2f772c988118b67e436a9c[m
+Merge: 81cc2fe 540e498
+Author: Kaitlin Vignali <kaitlin@flatironschool.com>
+Date:   Fri Jul 24 10:50:46 2015 -0400
+
+    Merge pull request #6 from kvignali/kvignali-1437749444
+
+[33mcommit 540e4983d57ed8188c48654cfcad2e39b8a568e5[m
+Author: Kaitlin Vignali <kaitlin@flatironschool.com>
+Date:   Fri Jul 24 10:50:44 2015 -0400
+
+    Updated README.md
+
+[33mcommit fa4c0df949a6848cbd339ee9b29c89cdcb9da7ce[m
+Author: Mark E Murray <markedwardmurray@users.noreply.github.com>
+Date:   Wed Jul 15 15:09:19 2015 -0400
+
+    README: edit objectives
+
+[33mcommit 81cc2fe41d8f357df66b8921660d078d3691ae29[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Fri Jun 12 12:43:55 2015 -0400
+
+    Add content license
+
+[33mcommit 691b0c69c72fe04735e3cc0666b68320c9c7fbe4[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Fri Jun 12 12:43:41 2015 -0400
+
+    Delete LICENSE.md
+
+[33mcommit 70be0ba89ed2b4e90091abe913d74e1f956b3d83[m
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Wed May 27 14:24:04 2015 -0400
+
+    Update README.md
+
+[33mcommit b1336b32271632622e39b143bc4aba726146b68d[m
+Author: Sam Marcus <sammarcus@users.noreply.github.com>
+Date:   Sun May 24 19:06:23 2015 -0500
+
+    fixed readme
+    
+    changed an incorrect filename reference in the readme
+
+[33mcommit dc54b7b847a1852f20cf9c4ebd02e4744eddae3a[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Fri May 22 13:29:56 2015 -0400
+
+    Video
+
+[33mcommit a1f4aaea3182dd46fe009358f841cc3a4e650e9d[m
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Fri May 22 12:34:15 2015 -0400
+
+    Create LICENSE.md
+
+[33mcommit a6f494041c402d906f9e76775265f7499dda6196[m
+Merge: 02e0f60 f4ba0bf
+Author: Avi Flombaum <avi@flombaum.com>
+Date:   Thu May 21 09:39:12 2015 -0400
+
+    Merge pull request #3 from learn-co-curriculum/rm-video
+    
+    rm video tag
+
+[33mcommit f4ba0bfe55913001d66e73700d61a128adad94ee[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Wed May 20 18:07:46 2015 -0400
+
+    rm video tag
+    
+    Since there is no video. Bug reported from @noneofmaster.
+    
+    cc @matbalez @aviflombaum
+
+[33mcommit 02e0f6023caaef504e9ce8611ed37a4fa740d705[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:39:46 2015 -0400
+
+    A bit about hello world
+
+[33mcommit a186b55a759e80019899ee3b91d3503d1fde7336[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:38:53 2015 -0400
+
+    A bit about hello world
+
+[33mcommit 6c6691cbbdae9efb6f1d354561cd83d6b3239743[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:37:20 2015 -0400
+
+    A bit about hello world
+
+[33mcommit eddb298d2bfa5f01594f511dd643c1d31f2d97b4[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:34:41 2015 -0400
+
+    A bit about hello world
+
+[33mcommit 1ed399860117d0fe69ba00db18b7219247e637b6[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:33:56 2015 -0400
+
+    A bit about hello world
+
+[33mcommit 4983d19ea484147d4ed118972261c55ad1e2c8f9[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:27:31 2015 -0400
+
+    Better format
+
+[33mcommit 924a812a892be0bacc32b35457cf3192a475ceaa[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:24:20 2015 -0400
+
+    Add objectives
+
+[33mcommit ae7d9dac81a38f58743989204e30698bf3326b2e[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:17:30 2015 -0400
+
+    tagged
+
+[33mcommit 336df47194609850bef542aca624088470fadbfb[m
+Author: aviflombaum <avi@flombaum.com>
+Date:   Thu May 7 23:17:00 2015 -0400
+
+    Setup for lab and video
+
+[33mcommit 7ccec3c62cb77923dd19ec9439495257bfa2852b[m
+Author: Beyonce Jabroni <labs+test-bot@flatironschool.com>
+Date:   Mon Mar 16 09:35:29 2015 -0400
+
+    dot learn added by fs-lms-bot
+
+[33mcommit 153f82988689ca5ee5f456f4abc88358e114a398[m
+Author: Katie Hoffman <ktahoffman@gmail.com>
+Date:   Wed Sep 10 10:57:43 2014 -0400
+
+    add h2s for parser
+
+[33mcommit bf6eb7b06d6e04aa1f8af8f0ec6effd7058801cf[m
+Author: Katie Hoffman <ktahoffman@gmail.com>
+Date:   Tue Sep 9 15:46:37 2014 -0400
+
+    fix desc
+
+[33mcommit 38ce5e7a4a28ba2f000c489b4c347629c62d3468[m
+Author: Katie Hoffman <ktahoffman@gmail.com>
+Date:   Tue Sep 9 12:14:24 2014 -0400
+
+    update
+
+[33mcommit 33bad50a34db9e7e24a98f0ecb019e1dc794ddc6[m
+Author: Katie Hoffman <ktahoffman@gmail.com>
+Date:   Mon Sep 8 16:57:03 2014 -0400
+
+    add instructions
+
+[33mcommit a18d4bbc21435e1c452886a5c774f8beebfd99dd[m
+Author: Katie Hoffman <ktahoffman@gmail.com>
+Date:   Mon Sep 8 16:46:57 2014 -0400
+
+    Initial commit
