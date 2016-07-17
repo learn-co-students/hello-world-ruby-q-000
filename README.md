@@ -1,4 +1,4 @@
-# Hello World
+pwd# Hello World
 
 ## Overview
 
@@ -14,7 +14,7 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 
 ## Instructions
 
-Get started by opening this lab with `learn open` or by clicking the Open button in Learn. 
+Get started by opening this lab with `learn open` or by clicking the Open button in Learn.
 
 ### Creating a File
 
