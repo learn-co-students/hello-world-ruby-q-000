@@ -1,65 +1,40 @@
-# Hello World
-
-## Overview
-
-We're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
+# Solving your first Lab
 
 ## Objectives
 
-1. Create a new Ruby file.
-2. Write syntactically valid code to produce "Hello World!"
-3. Run a Ruby file.
-4. Run the Learn gem.
-5. Submit a Learn lab.
+1. Open a lab by clicking "Open" on this page on Learn.co
+2. Run the lab's tests with the `learn` CLI command
+3. Make a change to your copy of this lab
+4. Pass the tests using the `learn` CLI command
+5. Submit the passing lab with the `learn submit` CLI command
 
 ## Instructions
 
-Get started by opening this lab with `learn open` or by clicking the Open button in Learn. 
+This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
 
-### Creating a File
+1. Click on the "Open" link on the lab toolbar above.
 
-First, let's make sure that we are in the lab's directory. If you are using the Learn IDE and used the Open command, you will automatically be in the correct directory. Otherwise, you should use `cd` to navigate into the directory of this lab, named something along the lines of `hello-world-ruby` (might be `hello-world-ruby-q-000` or `hello-world-ruby-v-000`). You can confirm you are in the correct directory by typing `pwd` in your terminal and you should see a path similar to: `/home/aviflombaum/code/labs/hello-world-ruby-q-000`.
+![Open](https://s3.amazonaws.com/learn-verified/LearnOpen.png)
 
-The next step is to create a text file called `hello_world.rb` within the lab directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal assuming you've navigated into this lab's directory with `cd` (note, however, that you won't see any output in Terminal with `touch`). If you are using the Learn IDE, you can then open this file for editing with `atom hello_world.rb` or navigate to the file in the editor's file browser and double click to open it.
+After you click on this, your Learn IDE will launch. 
 
-### Writing Code
+2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
-In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. To print in Ruby, you need to use the method `puts` which is short for "out**put s**tring." And because Hello World! is a string, you need to surround your text with `""`.
+3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. You'll see something similar to:
 
-File: `hello_world.rb`
-```ruby
-puts "Hello World!"
-```
+![lab-fail](https://s3.amazonaws.com/learn-verified/LearnRunningLearrn.png)
 
-Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it will be tested against an empty document! Always remember to save it every time you make changes by selecting Save from the File menu.
+You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
-### Executing Your File
+The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
-Execute this file by typing `ruby hello_world.rb` into your terminal and pressing `enter`. The `ruby` part of that command tells your computer to use the Ruby interpreter when reading and executing the code in your file. The second part of the command, `hello_world.rb` is the path to the file you want to run.
+4. To pass this lab, make any change to the content of the `edit-me.txt` file. You can do this by clicking on the name of the file in the file browser in the left pane; its contents will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
-Note: be sure to save your file before trying to print, otherwise it will not work.
+5. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
-You should see:
+![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-```bash
-$ ruby hello_world.rb
-Hello World!
-```
+You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
 
-### Running Learn
 
-Confirm everything is working by running the `learn` command.
-
-Note: Case matters, and your test will not pass unless you print "Hello World!" exactly
-
-### Submitting Your Lab
-
-Submit your solution with `learn submit` and this lab is done, but your adventure in Ruby has only just begun!
-
-### Hello World History
-
-![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
-
-_[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/hello-world-ruby'>Hello World</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
