@@ -1,4 +1,6 @@
-describe "Hello World" do 
+puts "hello world"
+ruby hello_world.rb
+describe "Hello World" do
 
   it 'puts "Hello World!"' do
     # $stdout represents the output of your program, don't worry about how
