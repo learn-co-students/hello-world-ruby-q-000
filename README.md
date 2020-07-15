@@ -21,12 +21,12 @@ Get started by clicking the Open button in Learn.
 You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb` or use the "Create New" or "New File" option in the Editor. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser. You should now see an empty file open in your text editor, ready to be edited. 
 
 ### Writing Code
-
+learn
 In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. To print in Ruby, you need to use the method `puts` which is short for "out**put s**tring." And because Hello World! is a string, you need to surround your text with `""`.
 
 File: `hello_world.rb`
 ```ruby
-puts "Hello World!"
+puts "Hello World!"lear
 ```
 
 Anytime you make changes to a file (like the one you've just made) you need to save the file, so your changes are preserved. If you forget to save the file before you run your tests, the last saved version of the file will be run — without your changes — and this can be very confusing! In this case, if you forget to save, what gets run might be just an empty document (which won't do anything very exciting). Always remember to save the file every time you make changes by selecting Save from the File menu.
