@@ -12,3 +12,5 @@ type:
   - video
   - lab
   - lecture
+feature_tours:
+  ask_a_question: true
